@@ -1,3 +1,3 @@
-function ls
-	/bin/ls -al
+function ls --argument path
+	/bin/ls $path -al
 end
