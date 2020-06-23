@@ -1,0 +1,18 @@
+function brightness-full
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+	osascript -e 'tell application "System Events"' -e 'key code 144' -e ' end tell'	
+end
