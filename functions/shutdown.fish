@@ -3,7 +3,7 @@ function shutdown
 		case Linux
 			echo "Not implemented"
 		case Darwin
-			sudo shutdown -r now
+			osascript -e 'tell app "System Events" to shut down'
 		case "*"
 			echo "Not implemented"
 	end
